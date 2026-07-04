@@ -2,6 +2,10 @@
 
 A modern web-based Student Attendance Management System built using HTML, CSS, JavaScript, and Firebase.
 
+## 🌐 Live Demo
+
+🔗 https://kandhasamy-student-attendance.netlify.app
+
 ## 🚀 Features
 
 - Secure Firebase Authentication
